@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_noblelte.mk
+    $(LOCAL_DIR)/lineage_zenlte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_noblelte-userdebug \
-    lineage_noblelte-user \
-    lineage_noblelte-eng
+    lineage_zenlte-userdebug \
+    lineage_zenlte-user \
+    lineage_zenlte-eng

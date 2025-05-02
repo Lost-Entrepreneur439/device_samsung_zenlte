@@ -1,4 +1,4 @@
-Device configuration for Samsung Galaxy S6 (SM-G920F, SM-G920I, SM-G920FD).
+Device configuration for Samsung Galaxy S6 Edge+ (SM-G928F, SM-G928I, SM-G928C).
 ========================================
 
 Basic   | Specification List
@@ -6,15 +6,15 @@ Basic   | Specification List
 CPU     | 4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53)
 Chipset | Samsung Exynos 7420
 GPU     | Mali-T760 MP8
-Memory  | 3 GB
-Shipped Android Version | 5.0.2
-Storage | 32/64/128 GB
+Memory  | 4 GB
+Shipped Android Version | 5.1.1
+Storage | 32/64 GB
 MicroSD | n/A
-Battery | Li-Ion 2600 mAh
-Dimensions | 143.4 mm x 70.5 mm x 6.8 mm
-Display | 2560 x 1440 pixel, 5.1"
+Battery | Li-Ion 3000 mAh
+Dimensions | 154.4 mm x 75.8 mm x 6.9 mm
+Display | 2560 x 1440 pixel, 5.7"
 Rear Camera  | 16 MP, f/1.9, 28mm (wide), 1/2.6", 1.12µm, AF, OIS
 Front Camera | 5 MP, f/1.9, 22mm (wide), 1/4.1", 1.34µm
-Release Date | April 2015
+Release Date | August 2015
 
-![Galaxy S6](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s6-3.jpg "Galaxy S6")
+![Galaxy S6](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s6-edge-plus-5.jpg "Galaxy S6 Edge+")

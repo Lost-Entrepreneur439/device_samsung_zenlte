@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/samsung/noblelte
+LOCAL_PATH := device/samsung/zenlte
 
-ifneq ($(filter noblelte nobleltedd nobleltedv nobleltejv nobleltektt nobleltelgt noblelteskt,$(TARGET_DEVICE)),)
+ifneq ($(filter zenlte zenltedd zenltedv zenltejv zenltektt zenltelgt zenlteskt,$(TARGET_DEVICE)),)
 
   subdir_makefiles=$(call first-makefiles-under,$(LOCAL_PATH))
   $(foreach mk,$(subdir_makefiles),$(info including $(mk) ...)$(eval include $(mk)))

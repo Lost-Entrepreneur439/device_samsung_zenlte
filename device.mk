@@ -49,7 +49,7 @@ PRODUCT_PACKAGES += \
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
 
 # Call the proprietary
-$(call inherit-product, vendor/samsung/noblelte/noblelte-vendor.mk)
+$(call inherit-product, vendor/samsung/zenlte/zenlte-vendor.mk)
 
 # Shipping API level
 $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_l.mk)
