@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_zenlte.mk
+    $(LOCAL_DIR)/aicp_zenlte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_zenlte-userdebug \
-    lineage_zenlte-user \
-    lineage_zenlte-eng
+    aicp_zenlte-userdebug \
+    aicp_zenlte-user \
+    aicp_zenlte-eng
